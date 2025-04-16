@@ -1,4 +1,5 @@
 👟 Adidas Sales Portfolio Dashboard
+
 📌 Project Overview
 This project analyzes Adidas retail sales data using Microsoft Excel. The goal is to derive business insights from historical sales transactions and visualize performance across regions, products, and sales methods. A dynamic Excel dashboard was developed to help stakeholders track KPIs and optimize retail strategies.
 📁 Dataset Highlights
